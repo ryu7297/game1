@@ -1,0 +1,6 @@
+{
+  "name": "지렁이 게임 (Worm Master)",
+  "description": "클래식 모드, 파워업 아케이드, 장애물 미로, AI 지렁이 대전까지 지원하는 프리미엄 지렁이 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
